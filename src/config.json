@@ -1,0 +1,11 @@
+{
+    "express":{
+        "protocol" : "localhost",
+		"port"     : 9000
+    },
+    "auth": {
+        "tenantId": "common",
+        "clientId": "ad837b2b-d93d-4251-9d44-ef6ae3514687",
+        "scope": "user.read offline_access https://management.core.windows.net/user_impersonation"
+    }
+}
